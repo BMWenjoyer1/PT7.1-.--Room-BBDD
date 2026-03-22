@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_tasques"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="Tasques" />
+    <item
+        android:id="@+id/nav_tags"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Tags" />
+</menu>
