@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="status_array">
-        <item>pendent</item>
-        <item>en_proces</item>
-        <item>completada</item>
-    </string-array>
-</resources>
